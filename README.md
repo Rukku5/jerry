@@ -20,5 +20,5 @@ ____
 2. pravallika
 3. mouni
 4. koti
-<hr>
+
 [sacet](http://sacet.ac.in)
