@@ -20,8 +20,16 @@ suresh:kissing_heart:maneesha:blush:
 
 mouni:cry:maneesha :satisfied:
 
-original behaviour of maneesha:alien:
 maneesha is a jerry
 
 - [x] yes
 - [ ] no
+
+## my frnds
+- jerry
+- sweety
+
+~~~~python
+def add(a,b):
+     print("add is:",a+b)
+add(5,3)
