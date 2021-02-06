@@ -20,6 +20,8 @@ suresh:kissing_heart:maneesha:blush:
 
 mouni:cry:maneesha :satisfied:
 
+maneesha:running:while see:beetle:
+
 maneesha is a jerry
 
 - [x] yes
