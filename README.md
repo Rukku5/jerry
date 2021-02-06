@@ -22,3 +22,8 @@ ____
 4. koti
 
 [sacet](http://sacet.ac.in)
+
+s.no | name | college
+-----|------|--------
+1|manesha|sacet
+2|rukku|sacet
