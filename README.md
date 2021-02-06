@@ -28,4 +28,11 @@ s.no | name | college
 1|manesha|sacet
 2|rukku|sacet
 
-:kissing_heart:jerry
+suresh:kissing_heart:maneesha:blush:
+
+maneesha is human
+-[x] no
+-[ ] yes
+mouni:cry:maneesha :satisfied:
+
+original maneesha face is :alien:
