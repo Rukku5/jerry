@@ -18,10 +18,10 @@ s.no | name | college
 
 suresh:kissing_heart:maneesha:blush:
 
+mouni:cry:maneesha :satisfied:
+
+original behaviour of maneesha:alien:
+
 maneesha is human
 -[x] no
 -[ ] yes
-
-mouni:cry:maneesha :satisfied:
-
-original maneesha face is :alien:
