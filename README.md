@@ -21,7 +21,7 @@ suresh:kissing_heart:maneesha:blush:
 mouni:cry:maneesha :satisfied:
 
 original behaviour of maneesha:alien:
+maneesha is a jerry
 
-maneesha is human
--[x] no
--[ ] yes
+- [x] yes
+- [ ] no
